@@ -11,20 +11,20 @@ In this project, we aimed to design classroom that enables real-time, automatic 
 
 # Main Research Objectives
 
-•	Tracking availability of classrooms and therefore avoiding potential clashes of Lectures.\
-•	Energy Conservation in Classrooms.\
-•	Maintaining user comfort in classrooms.\
-•	Feedback from the users about class comfort level and then use it to improve the experience.\
+•	Tracking availability of classrooms and therefore avoiding potential clashes of Lectures.
+•	Energy Conservation in Classrooms.
+•	Maintaining user comfort in Classrooms.
+•	Feedback from the users about Class comfort level and then use it to improve the experience.
 
 # The Methodology
-We divide the system into three parts:\
-1. Amazon Alexa Echo-dot voice service, Messenger based Chatbot Application, Android Application, Server Connectivity to Devices.\
-2. Server client programming, Data Acquisition and Storage.\
+We divide the system into three parts:
+1. Amazon Alexa Echo-dot voice service, Messenger based Chatbot Application, Android Application, Server Connectivity to Devices.
+2. Server client programming, Data Acquisition and Storage.
 3. Sensors location, calibration and interfacing.
 
 # Features Implemented :	
-1.Monitoring Status of AC and Projector using sensors.\
-2.Checking the availability of Classroom.\
+1.Monitoring Status of AC and Projector using sensors.
+2.Checking the availability of Classroom.
 3.Real time Feedback from user.
 
 # Technology Used :
