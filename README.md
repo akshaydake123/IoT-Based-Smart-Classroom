@@ -11,9 +11,9 @@ In this project, we aimed to design classroom that enables real-time, automatic 
 
 # Main Research Objectives
 
-•	Tracking availability of classrooms and therefore avoiding potential clashes of Lectures.
-•	Energy Conservation in Classrooms.
-•	Maintaining user comfort in Classrooms.
+•	Tracking availability of classrooms and therefore avoiding potential clashes of Lectures.\
+•	Energy Conservation in Classrooms.\
+•	Maintaining user comfort in Classrooms.\
 •	Feedback from the users about Class comfort level and then use it to improve the experience.
 
 # The Methodology
