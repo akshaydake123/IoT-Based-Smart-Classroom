@@ -12,10 +12,13 @@ In this project, we aimed to design classroom that enables real-time, automatic 
 
 # Main Research Objectives
 
-•	Tracking availability of classrooms and therefore avoiding potential clashes of Lectures #
-•	Energy Conservation in Classrooms #
-•	Maintaining user comfort in classrooms #
-•	Feedback from the users about class comfort level and then use it to improve the experience. #
+•	Tracking availability of classrooms and therefore avoiding potential clashes of Lectures.
+#
+•	Energy Conservation in Classrooms.
+#
+•	Maintaining user comfort in classrooms.
+#
+•	Feedback from the users about class comfort level and then use it to improve the experience.
 
 # The Methodology
 
@@ -28,7 +31,11 @@ We divide the system into three parts:
 3. Sensors location, calibration and interfacing
 
 # Features Implemented :	
-Monitoring Status of AC and Projector using sensors, Checking the availability of Classroom, Real time Feedback from user.
+1.Monitoring Status of AC and Projector using sensors.
+#
+2.Checking the availability of Classroom.
+#
+3.Real time Feedback from user.
 
 # Technology Used :
 Android Development, Node.js, Amazon Alexa Echo -dot, Heroku-Server, MongoDB.
