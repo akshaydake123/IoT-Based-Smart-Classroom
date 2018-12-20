@@ -1,4 +1,4 @@
-# IoT-Based-Smart-Classroom-Android-App
+# IoT-Based-Smart-Classroom.
 
 Background and Description of Problem 
 #
@@ -23,8 +23,8 @@ We divide the system into three parts:
 3. Sensors location, calibration and interfacing.
 
 # Features Implemented :	
-1.Monitoring Status of AC and Projector using sensors.
-2.Checking the availability of Classroom.
+1.Monitoring Status of AC and Projector using sensors.\
+2.Checking the availability of Classroom.\
 3.Real time Feedback from user.
 
 # Technology Used :
